@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# But do not ignore files ending with .json
+!*.json
+
+# Do not ignore this .gitignore file
+!.gitignore
